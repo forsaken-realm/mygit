@@ -1,2 +1,1 @@
-print("hello")
-print("hooo")
+print("   yyy   ")wwwwscsc
